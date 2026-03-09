@@ -1,0 +1,733 @@
+body{
+    background-color: antiquewhite;
+}
+
+.headline {
+            padding: 5px;
+            text-align: center;
+}
+
+    .headline h1 {
+            color: #ff2e2e;
+            letter-spacing: 3px;
+        }
+
+        .headline p{
+            font-size: 20px;
+        }
+
+.headbar{
+    display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    
+
+    
+}
+
+.headbar a{
+    text-decoration: none;
+    color: rgb(25, 0, 255);
+    font-size: 30px;
+}
+
+.login{
+    height: 100px;
+}
+
+.login button{
+    position: absolute;
+    top: 30px;
+    margin-left: 85%;
+    width: 140px;
+    height: 40px;
+    border: 2px solid red;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.login button:hover{
+    background-color: red;
+    color: white;
+    transition: 0.5s;
+}
+
+.login h1{
+    margin: auto 0;
+    font-size: 20px;
+    margin-left: 15px;
+}
+
+.login img{
+    width: 20px;
+    position: absolute;
+    top: 36px;
+    margin-left: 85.8%;
+}
+
+ .oval {
+    width: 150px;
+    height: 60px;
+    border-radius: 99px;
+    background-color: #4CAF50; 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    font-size: 24px;
+    font-family: Arial, sans-serif;
+    cursor: pointer; 
+    margin-left: 170vh;
+    margin-top: -5vh;
+}
+
+
+           .hero {
+            align-items: center;
+            justify-content: center;
+            text-align: center;
+            margin-left: 70vh;
+            margin-top: 50px;
+            width: 600px;
+        }
+
+        .hero h2 {
+            padding: 20px;
+            border: 2px solid #ff2e2e;
+        }
+
+
+  .dots {
+    margin-bottom: 10px;
+    margin-left: 94%;
+    margin-top: -4.5vh;
+    color: #fff;
+  }
+
+
+  .circle{
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+  }
+
+      .content {
+            padding: 40px;
+            text-align: center;
+        }
+
+        .cars {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            flex-wrap: wrap;
+        }
+
+        .car {
+            padding: 20px;
+            width: 250px;
+            border-radius: 10px;
+            border: 2px solid red;
+        }
+
+        .car h3 {
+            color: #ff2e2e;
+        }
+
+        .car img{
+            width: 100%;
+            height: 50%;
+        }
+
+   body{
+            position: relative;
+        }
+        .saxeli{
+            color: yellowgreen;
+            align-items: center;
+            font-size: 40px;
+            margin-left: 10vh;
+        }
+
+        .foto{
+                 width: 400px;
+            height: 600px;
+            margin-left: 30px;
+            
+        }
+      
+        .agwera{
+            font-size: 40px;
+            color: rgb(255, 0, 0);
+            margin-left: 10vh;
+            margin-top: -36%;
+            text-align: center;
+            font-weight: bold;
+        }
+
+        .linki{
+            font-size: 4vh;
+            margin-left: 70vh;
+            text-align:center;
+            
+            
+        }
+
+        .meore{
+            margin-top: -70vh;
+            margin-left: 70%;
+            position: absolute;
+            display: block;
+        }
+
+        .mesame{
+            margin-left: -130vh;
+            margin-top: 10vh;
+            height: auto;
+            position: absolute;
+        
+        }
+
+        .agwera1{
+            color:blue;
+            font-size: 15px;
+            margin-top: 0vh;
+            margin-left: 10px;
+            position: absolute;
+            display: block;
+
+          
+        }
+
+        .cxrili{
+            border: solid; 
+            border-width: 1px 8px 5px 4px; 
+            border-style: double; 
+            border-radius: 20px;
+             margin: 0 auto;
+        }
+
+        .headbar1{
+    display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none;
+}
+
+.headbar1 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.headbar2 {
+     display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none; 
+}
+
+.headbar2 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.headbar3 {
+     display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none; 
+
+}
+
+.headbar3 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.headbar4 {
+     display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none; 
+
+}
+
+.headbar4 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.headbar5 {
+     display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none; 
+}
+
+.headbar5 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.headbar6 {
+     display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none; 
+}
+
+.headbar6 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.headbar7 {
+     display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none; 
+}
+
+.headbar7 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.headbar8 {
+     display: flex;
+    gap: 50px;
+    font-size: 15px;
+    margin-left: 45vh;
+    cursor: pointer;
+    border-radius: 30px;
+    border: solid;
+    border-color: #ff0000;
+    width: 1000px;
+    text-decoration: none; 
+}
+
+.headbar8 a{
+    text-decoration: none;
+    color: blue;
+}
+
+.foto1{
+    margin-left: 10px;
+    margin-top: 50px;
+    width: 400px;
+}
+
+.teqsti1{
+    font-size: 33px;
+    margin-top: -200px;
+    margin-left: 470px;
+    color: red;
+}
+
+.foto2 {
+    width: 400px;
+    margin-top: 100px;
+    margin-left: 155vh;
+}
+
+.teqsti2{
+    margin-top: -200px;
+    color: green;
+}
+
+.foto3{
+    width: 400px;
+    margin-top: 80px;
+}
+
+.teqsti3 {
+    margin-left: 50vh;
+    margin-top: -21vh;
+    color: blue;
+}
+
+.foto4{
+    width: 400px;
+    margin-left: 155vh;
+}
+
+.teqsti4 {
+    margin-top: -23vh;
+    color: orange;
+}
+
+.foto5{
+    width: 300px;
+    margin-top: 30px;
+}
+
+.teqsti5{
+    margin-left: 330px;
+    margin-top: -30vh;
+    color: brown;
+}
+
+.card1 img{
+    width: 300px;
+    height: 200px;
+}
+
+.div-container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    gap: 50px;
+    width: 100%;
+    margin-top: 10%;
+}
+
+.card1 button{
+    width: 100px;
+    height: 30px;
+    border-radius: 40px;
+    margin-left: 160px;
+    border-style: dashed;
+    font-size: 17px;
+    align-items: center;
+    
+}
+
+.card1 button:hover{
+    color: white;
+    transition: 0.5s;
+    background-color: black;
+}
+
+.calcurator input{
+    position: absolute;
+    display: flex;
+    width: 370px;
+    height: 40px;
+    margin-top: -390px;
+    background-color: #ffffff;
+    margin-left: -10px;
+    border-radius: 10px;
+    text-align: right;
+    font-size: 50px;
+    color: black;
+    outline: none;
+    
+    
+}
+ 
+
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+.box{
+    display: flex;
+    width: 400px;
+    height: 450px;
+  color: rgba(250, 235, 215, 0.021);
+  border: 9px solid black;
+  background-color: rgba(128, 128, 128, 0.144);
+
+}
+
+
+.calcurator{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin-left: -190px;
+
+}
+
+.gilaki1 {
+    position: absolute;
+    display: flex;
+    margin-top: 60px;
+    margin-left: 10px;
+   gap: 15px;
+   cursor: pointer;
+}
+
+
+
+.gilaki1 button{
+    width: 60px;
+    height: 60px;
+    font-size: 15px;
+    background-color: rgba(0, 128, 0, 0.514);
+    cursor: pointer;
+}
+
+.gilaki1 button:hover{
+    background-color: red;
+    transition: 0.1s;
+}
+
+.buttons{
+    position: absolute;
+    display: grid;
+    grid-template-columns: repeat(5, 1fr);
+    gap: 15px;
+    margin-top: 135px;
+    margin-left: 10px;
+    cursor: pointer;
+    
+}
+
+.buttons button{
+    width: 60px;
+    height: 60px;
+    cursor: pointer;
+    
+}
+
+.buttons button:hover{
+    background-color: red;
+}
+
+.logintext{
+    font-size: 20px;
+    align-items: center;
+    text-align: center;
+    margin-top: 50px;
+}
+.logintext h1{
+    color: black;
+}
+.login1 input{
+    font-size: 20px;
+    border-radius: 10px;
+    width: 350px;
+    height: 40px;
+    margin: 0 auto;
+    margin-left: 85vh;
+    border-width: 0px 0px 2px 0px;
+
+}
+
+.login1 h1{
+    margin-left: 85.5vh;
+    font-size: 20px;
+}
+
+.login1 img{
+    position: absolute;
+    margin-left: 86vh;
+    width: 20px;
+    margin-top: 7px;
+}
+
+.login2 h1{
+    font-size: 20px;
+    margin-left: 86vh;
+    margin-top: 20px;
+}
+
+.login2 input{
+     font-size: 20px;
+    border-radius: 10px;
+    width: 350px;
+    height: 40px;
+    margin: 0 auto;
+    margin-left: 85vh;
+    border-width: 0px 0px 2px 0px;
+}
+
+.login2 img{
+    position: absolute;
+    width: 20px;
+    margin-left: 86vh;
+    margin-top: 9px;
+}
+
+.forgot{
+    margin-top: 7px;
+}
+
+.forgot a{
+    margin-left: 110vh;
+    text-decoration: none;
+    color: black;
+    }
+
+.shesvla button{
+    margin-left: 87vh;
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(106, 240, 106);
+    border-radius: 10px;
+    font-size: 15px;
+    color: black;
+    border: green;
+    cursor: pointer;
+    border: 0 0 2px 0;
+}
+
+.signup button{
+    margin-left: 87vh;
+    margin-top: 15px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(106, 240, 106);
+    border-radius: 10px;
+    font-size: 15px;
+    color: black;
+    border: green;
+    cursor: pointer;
+}
+
+.signup h1{
+    text-align: center;
+    align-items: center;
+    margin-top: 40px;
+}
+
+.signupusername h1{
+    font-size: 20px;
+    margin-left: 80vh;
+    margin-top: 40px;
+}
+
+.signupusername input{
+    margin-left: 80vh;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.signuppassword h1{
+    font-size: 20px;
+    margin-left: 80vh;
+    margin-top: 40px;
+}
+
+.signuppassword input{
+    margin-left: 80vh;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.signupemail h1{
+        font-size: 20px;
+    margin-left: 80vh;
+    margin-top: 40px;
+}
+
+.signupemail input{
+    margin-left: 80vh;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.signuprepeatpassword h1{
+font-size: 20px;
+    margin-left: 80vh;
+    margin-top: 40px;
+}
+
+.signuprepeatpassword input{
+    margin-left: 80vh;
+    width: 300px;
+    height: 30px;
+    border-radius: 10px;
+    border-color: black;
+}
+
+.submit a{
+    text-decoration: none;
+}
+
+.submit button{
+    margin-left: 80vh;
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(106, 240, 106);
+    border-radius: 10px;
+}
+
+.back a{
+    text-decoration: none;
+}
+
+.back button{
+    margin-left: 80vh;
+    margin-top: 30px;
+    width: 300px;
+    height: 30px;
+    background-color: rgb(106, 240, 106);
+    border-radius: 10px;
+    cursor: pointer;
+}
+
+.forgot h1{
+  margin-left: 80vh;
+    margin-top: 70px;
+    font-size: 20px;
+    cursor: pointer;
+}
+
+.forgot input{
+    margin-left: 80vh;
+    width: 300px;
+    height: 30px;
+    cursor: pointer;
+    border-radius: 0px 0px 2px 0px;
+}
